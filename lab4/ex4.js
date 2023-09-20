@@ -1,4 +1,4 @@
-
+//Лаб 4  Бейсембай Нурым
 
 
 function manualAddElementsToEndArray(arr, elementsToAdd) { //isArray - это проверка на массив ли данный аргумент
