@@ -1,3 +1,5 @@
+//Лаб 5  Бейсембай Нурым
+
 Array.prototype.manualPush = function (...elements) { //Пушить элементв конец массива
     const originalLength = this.length
 
